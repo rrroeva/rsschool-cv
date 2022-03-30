@@ -23,4 +23,4 @@ SAINT-PETERSBURG UNIVERSITY OF STATE FIRE SERVICE OF EMERCOM OF RUSSIA (Applied 
 * English - Upper Intermediate/Advanced
 ![](unnamed.png)
 * Russian - Native
-* Spanich - Basic
+* Spanish - Basic
